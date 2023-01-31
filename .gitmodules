@@ -10,3 +10,6 @@
 [submodule "robp_description"]
 	path = robp_description
 	url = https://github.com/KTH-CAS-UAV/robp_description.git
+[submodule "robp_launch"]
+	path = robp_launch
+	url = https://github.com/KTH-CAS-UAV/robp_launch.git
