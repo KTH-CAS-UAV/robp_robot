@@ -1,9 +1,11 @@
 [submodule "robp_interfaces"]
 	path = robp_interfaces
 	url = https://github.com/KTH-CAS-UAV/robp_interfaces.git
+	branch = vt24
 [submodule "robp_arm"]
 	path = robp_arm
 	url = https://github.com/KTH-CAS-UAV/robp_arm.git
+	branch = vt24
 [submodule "robp_description"]
 	path = robp_description
 	url = https://github.com/KTH-CAS-UAV/robp_description.git
