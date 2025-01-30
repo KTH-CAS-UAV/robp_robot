@@ -18,3 +18,9 @@
 	path = robp_phidgets
 	url = https://github.com/KTH-CAS-UAV/robp_phidgets.git
 	branch = vt24
+[submodule "sllidar_ros2"]
+	path = sllidar_ros2
+	url = https://github.com/KTH-CAS-UAV/sllidar_ros2.git
+[submodule "usb_cam"]
+	path = usb_cam
+	url = https://github.com/KTH-CAS-UAV/usb_cam.git
