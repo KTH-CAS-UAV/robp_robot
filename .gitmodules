@@ -26,3 +26,6 @@
 	path = usb_cam
 	url = https://github.com/KTH-CAS-UAV/usb_cam.git
 	branch = main
+[submodule "aruco_ros"]
+	path = aruco_ros
+	url = https://github.com/KTH-CAS-UAV/aruco_ros.git
