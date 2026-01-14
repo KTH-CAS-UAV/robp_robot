@@ -2,10 +2,6 @@
 	path = robp_arm
 	url = https://github.com/KTH-CAS-UAV/robp_arm.git
 	branch = vt26
-[submodule "robp_boot_camp"]
-	path = robp_boot_camp
-	url = https://github.com/KTH-CAS-UAV/robp_boot_camp.git
-	branch = vt26
 [submodule "robp_interfaces"]
 	path = robp_interfaces
 	url = https://github.com/KTH-CAS-UAV/robp_interfaces.git
